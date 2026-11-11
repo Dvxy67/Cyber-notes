@@ -10,6 +10,7 @@ Un dossier par module du parcours. Dans chaque dossier, une note par concept (pa
 
 | Dossier | Module TryHackMe | Statut |
 |---------|------------------|--------|
+| [introduction/](introduction/) | Start Your Cyber Security Journey | ![en cours][doing] |
 | [linux/](linux/) | Linux Fundamentals | ![à venir][todo] |
 | [windows/](windows/) | Windows and AD Fundamentals | ![à venir][todo] |
 | [command-line/](command-line/) | Command Line | ![à venir][todo] |
