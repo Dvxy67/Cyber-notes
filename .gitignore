@@ -1,0 +1,38 @@
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+
+# --- Éditeurs ---
+.vscode/
+.idea/
+
+# --- Captures réseau (volumineuses, peuvent contenir des données sensibles) ---
+*.pcap
+*.pcapng
+*.cap
+
+# --- Fichiers sensibles ---
+.env
+.env.*
+*.key
+*.pem
+*.ovpn
+id_rsa*
+id_ed25519*
+*.kdbx
+secrets/
+credentials*
+
+# --- Brouillons personnels (réponses, flags : jamais publiés) ---
+_private/
+*.private.md
+
+# --- Divers ---
+*.log
+*.zip
+*.7z
+*.ova
+*.vmdk
