@@ -10,12 +10,12 @@ Ce repo n'est pas un carnet de réponses. C'est le journal de ma progression : d
 
 | Parcours | Plateforme | Statut |
 |----------|------------|--------|
-| [Cyber Security 101](01-cyber-security-101/) | TryHackMe | 🟡 En cours |
-| [Fondamentaux : sous-réseaux & hardware](fundamentals/) | subnettingpractice.com, Professor Messer | ⚪ À venir |
-| [SOC Level 1](02-soc-level-1/) | TryHackMe | ⚪ À venir |
-| LetsDefend · CyberDefenders · Blue Team Labs Online | — | ⚪ À venir |
+| [Cyber Security 101](01-cyber-security-101/) | TryHackMe | ![en cours][doing] |
+| [Fondamentaux : sous-réseaux & hardware](fundamentals/) | subnettingpractice.com, Professor Messer | ![à venir][todo] |
+| [SOC Level 1](02-soc-level-1/) | TryHackMe | ![à venir][todo] |
+| LetsDefend · CyberDefenders · Blue Team Labs Online | — | ![à venir][todo] |
 
-Légende : ✅ terminé · 🟡 en cours · ⚪ à venir
+Statuts : ![terminé][done] ![en cours][doing] ![à venir][todo]
 
 ## Notes à lire en premier
 
@@ -61,3 +61,9 @@ Voir [projects/](projects/) : chaque projet vit dans son propre repo et est réf
 
 - TryHackMe : `TODO`
 - GitHub : [github.com/Dvxy67](https://github.com/Dvxy67)
+
+<!-- Badges de statut -->
+[done]: https://img.shields.io/badge/termin%C3%A9-2f6f4f?style=flat-square
+[doing]: https://img.shields.io/badge/en%20cours-1f4e79?style=flat-square
+[todo]: https://img.shields.io/badge/%C3%A0%20venir-8b949e?style=flat-square
+[later]: https://img.shields.io/badge/plus%20tard-8b949e?style=flat-square
